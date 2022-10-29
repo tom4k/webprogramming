@@ -1,0 +1,20 @@
+
+.outer{
+    color: green;
+    background-color: beige;
+    width: 500px;
+    height: 500px;
+}
+.inner{
+    color: red;
+    margin: 10px;
+    border: 2px dashed black;
+}
+.box{
+    border: inherit;
+    font-size: 24px;
+    background-color: blue;
+}
+.box2{
+    font-size: 12px;
+}
